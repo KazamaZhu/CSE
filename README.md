@@ -1,2 +1,0 @@
-# CSE
-CSE DEMO
